@@ -20,7 +20,7 @@ ls [a-c]*	baş harfi a-c olanlar örn: balık
 man		komutun manual dosyasını açar
 type		komut hakkında kısa bilgi verir
 
-mkdir		boş dizin oluşturur
+mkdir		boş klasör oluşturur
 /		dizin işareti
 	ali	ali dosyası
 	ali/	ali dizini
